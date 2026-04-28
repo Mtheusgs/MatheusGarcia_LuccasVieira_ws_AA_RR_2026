@@ -5,6 +5,8 @@
 
 #define INSERTION_THRESHOLD 16
 
+static long long comparacoes = 0;
+
 static inline void swap(long long *a, long long *b) {
     long long t = *a; *a = *b; *b = t;
 }
@@ -13,9 +15,12 @@ static void insertion_sort(long long *arr, int lo, int hi) {
     for (int i = lo + 1; i <= hi; i++) {
         long long key = arr[i];
         int j = i - 1;
-        while (j >= lo && arr[j] > key) {
-            arr[j + 1] = arr[j];
-            j--;
+        while (j >= lo) {
+            comparacoes++;
+            if (arr[j] > key) {
+                arr[j + 1] = arr[j];
+                j--;
+            } else break;
         }
         arr[j + 1] = key;
     }
@@ -42,9 +47,10 @@ static void dual_pivot_qsort(long long *arr, int lo, int hi) {
         swap(&arr[m3], &arr[hi]);
 
         long long p1 = arr[lo], p2 = arr[hi];
-
         int lt = lo + 1, gt = hi - 1, k = lt;
+
         while (k <= gt) {
+            comparacoes++;
             if (arr[k] < p1) {
                 swap(&arr[k], &arr[lt]);
                 lt++; k++;
@@ -62,7 +68,6 @@ static void dual_pivot_qsort(long long *arr, int lo, int hi) {
 
         int left_size  = lt - 1 - lo;
         int right_size = hi - gt - 1;
-
         if (left_size <= right_size) {
             dual_pivot_qsort(arr, lo, lt - 1);
             dual_pivot_qsort(arr, lt + 1, gt - 1);
@@ -105,29 +110,29 @@ static long long *read_file(const char *path, size_t *out_n) {
 
 int main(int argc, char *argv[]) {
     if (argc < 2) {
-        fprintf(stderr, "Uso: %s <arquivo1> [arquivo2 ...]\n", argv[0]);
+        fprintf(stderr, "Uso: %s <arquivo>\n", argv[0]);
         return 1;
     }
 
-    for (int i = 1; i < argc; i++) {
-        size_t n = 0;
-        long long *arr = read_file(argv[i], &n);
-        if (!arr) continue;
+    size_t n = 0;
+    long long *arr = read_file(argv[1], &n);
+    if (!arr) return 1;
 
-        struct timespec t0, t1;
-        clock_gettime(CLOCK_MONOTONIC, &t0);
+    // Zera para cada execução (processo separado, mas boa prática)
+    comparacoes = 0;
 
-        if (n > 1)
-            dual_pivot_qsort(arr, 0, (int)(n - 1));
+    struct timespec t0, t1;
+    clock_gettime(CLOCK_PROCESS_CPUTIME_ID, &t0);
+    if (n > 1)
+        dual_pivot_qsort(arr, 0, (int)(n - 1));
+    clock_gettime(CLOCK_PROCESS_CPUTIME_ID, &t1);
 
-        clock_gettime(CLOCK_MONOTONIC, &t1);
+    double cpu_time = (t1.tv_sec - t0.tv_sec)
+                    + (t1.tv_nsec - t0.tv_nsec) / 1e9;
 
-        double ms = (t1.tv_sec - t0.tv_sec) * 1000.0
-                  + (t1.tv_nsec - t0.tv_nsec) / 1e6;
+    printf("RESULTADO|Algoritmo:QuickSort|N:%zu|Comparacoes:%lld|Tempo:%.6f\n",
+           n, comparacoes, cpu_time);
 
-        printf("%.3f ms\n", ms);
-
-        free(arr);
-    }
+    free(arr);
     return 0;
 }
