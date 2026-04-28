@@ -1,0 +1,332 @@
+10156-[2026-04-27 16:45:47,164]: DEBUG -> SISTEMA INICIALIZADO - Iniciando bateria de testes de algoritmos.
+10156-[2026-04-27 16:45:47,165]: DEBUG -> === INICIANDO BATERIA: numeros_100k_aleatorio.txt ===
+10156-[2026-04-27 16:45:47,219]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:47,270]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:47,355]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:47,425]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:47,480]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:47,524]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:47,557]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:47,584]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:47,609]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:47,634]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:47,658]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:47,689]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:47,718]: DEBUG ->   > [numeros_100k_aleatorio.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:47,718]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_100k_aleatorio.txt ---
+10156-[2026-04-27 16:45:47,718]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:47,718]: DEBUG -> Tempo Total (Wall Time): 0.553258s
+10156-[2026-04-27 16:45:47,719]: DEBUG -> Tempo M�dio (Wall Time): 0.042558s
+10156-[2026-04-27 16:45:47,719]: DEBUG -> Tempo M�dio (Interno do C): 0.008413s
+10156-[2026-04-27 16:45:47,719]: DEBUG -> Soma de Compara��es (Total): 15509156
+10156-[2026-04-27 16:45:47,719]: DEBUG -> M�dia de Compara��es/Rodada: 1193012.00
+10156-[2026-04-27 16:45:47,719]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:47,719]: DEBUG -> === INICIANDO BATERIA: numeros_100k_ordenado.txt ===
+10156-[2026-04-27 16:45:47,748]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:47,769]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:47,790]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:47,814]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:47,835]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:47,856]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:47,878]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:47,901]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:47,925]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:47,945]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:47,966]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:47,986]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:48,008]: DEBUG ->   > [numeros_100k_ordenado.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:48,008]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_100k_ordenado.txt ---
+10156-[2026-04-27 16:45:48,008]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:48,008]: DEBUG -> Tempo Total (Wall Time): 0.288917s
+10156-[2026-04-27 16:45:48,008]: DEBUG -> Tempo M�dio (Wall Time): 0.022224s
+10156-[2026-04-27 16:45:48,008]: DEBUG -> Tempo M�dio (Interno do C): 0.003606s
+10156-[2026-04-27 16:45:48,008]: DEBUG -> Soma de Compara��es (Total): 15644980
+10156-[2026-04-27 16:45:48,008]: DEBUG -> M�dia de Compara��es/Rodada: 1203460.00
+10156-[2026-04-27 16:45:48,008]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:48,008]: DEBUG -> === INICIANDO BATERIA: numeros_100k_reverso.txt ===
+10156-[2026-04-27 16:45:48,037]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:48,061]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:48,080]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:48,100]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:48,123]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:48,144]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:48,165]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:48,191]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:48,215]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:48,239]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:48,270]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:48,296]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:48,320]: DEBUG ->   > [numeros_100k_reverso.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:48,320]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_100k_reverso.txt ---
+10156-[2026-04-27 16:45:48,320]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:48,320]: DEBUG -> Tempo Total (Wall Time): 0.311629s
+10156-[2026-04-27 16:45:48,320]: DEBUG -> Tempo M�dio (Wall Time): 0.023971s
+10156-[2026-04-27 16:45:48,320]: DEBUG -> Tempo M�dio (Interno do C): 0.002404s
+10156-[2026-04-27 16:45:48,320]: DEBUG -> Soma de Compara��es (Total): 15774096
+10156-[2026-04-27 16:45:48,320]: DEBUG -> M�dia de Compara��es/Rodada: 1213392.00
+10156-[2026-04-27 16:45:48,320]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:48,320]: DEBUG -> === INICIANDO BATERIA: numeros_200k_aleatorio.txt ===
+10156-[2026-04-27 16:45:48,380]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:48,422]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:48,467]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:48,513]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:48,562]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:48,608]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:48,660]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:48,716]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:48,767]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:48,818]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:48,866]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:48,914]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:48,963]: DEBUG ->   > [numeros_200k_aleatorio.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:48,963]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_200k_aleatorio.txt ---
+10156-[2026-04-27 16:45:48,963]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:48,963]: DEBUG -> Tempo Total (Wall Time): 0.642608s
+10156-[2026-04-27 16:45:48,963]: DEBUG -> Tempo M�dio (Wall Time): 0.049431s
+10156-[2026-04-27 16:45:48,963]: DEBUG -> Tempo M�dio (Interno do C): 0.014423s
+10156-[2026-04-27 16:45:48,963]: DEBUG -> Soma de Compara��es (Total): 32734403
+10156-[2026-04-27 16:45:48,963]: DEBUG -> M�dia de Compara��es/Rodada: 2518031.00
+10156-[2026-04-27 16:45:48,963]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:48,963]: DEBUG -> === INICIANDO BATERIA: numeros_200k_ordenado.txt ===
+10156-[2026-04-27 16:45:49,011]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:49,049]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:49,090]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:49,128]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:49,167]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:49,205]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:49,246]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:49,288]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:49,326]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:49,362]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:49,426]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:49,481]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:49,528]: DEBUG ->   > [numeros_200k_ordenado.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:49,528]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_200k_ordenado.txt ---
+10156-[2026-04-27 16:45:49,528]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:49,528]: DEBUG -> Tempo Total (Wall Time): 0.564360s
+10156-[2026-04-27 16:45:49,528]: DEBUG -> Tempo M�dio (Wall Time): 0.043412s
+10156-[2026-04-27 16:45:49,528]: DEBUG -> Tempo M�dio (Interno do C): 0.009615s
+10156-[2026-04-27 16:45:49,528]: DEBUG -> Soma de Compara��es (Total): 33718087
+10156-[2026-04-27 16:45:49,528]: DEBUG -> M�dia de Compara��es/Rodada: 2593699.00
+10156-[2026-04-27 16:45:49,528]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:49,528]: DEBUG -> === INICIANDO BATERIA: numeros_200k_reverso.txt ===
+10156-[2026-04-27 16:45:49,589]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:49,628]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:49,669]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:49,718]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:49,761]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:49,798]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:49,835]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:49,876]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:49,913]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:49,947]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:49,985]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:50,029]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:50,067]: DEBUG ->   > [numeros_200k_reverso.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:50,067]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_200k_reverso.txt ---
+10156-[2026-04-27 16:45:50,067]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:50,067]: DEBUG -> Tempo Total (Wall Time): 0.538418s
+10156-[2026-04-27 16:45:50,067]: DEBUG -> Tempo M�dio (Wall Time): 0.041417s
+10156-[2026-04-27 16:45:50,067]: DEBUG -> Tempo M�dio (Interno do C): 0.007212s
+10156-[2026-04-27 16:45:50,067]: DEBUG -> Soma de Compara��es (Total): 34007610
+10156-[2026-04-27 16:45:50,067]: DEBUG -> M�dia de Compara��es/Rodada: 2615970.00
+10156-[2026-04-27 16:45:50,067]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:50,067]: DEBUG -> === INICIANDO BATERIA: numeros_300k_aleatorio.txt ===
+10156-[2026-04-27 16:45:50,142]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:50,209]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:50,274]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:50,345]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:50,413]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:50,497]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:50,577]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:50,660]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:50,748]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:50,828]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:50,914]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:50,993]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:51,078]: DEBUG ->   > [numeros_300k_aleatorio.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:51,079]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_300k_aleatorio.txt ---
+10156-[2026-04-27 16:45:51,079]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:51,079]: DEBUG -> Tempo Total (Wall Time): 1.011593s
+10156-[2026-04-27 16:45:51,079]: DEBUG -> Tempo M�dio (Wall Time): 0.077815s
+10156-[2026-04-27 16:45:51,079]: DEBUG -> Tempo M�dio (Interno do C): 0.026442s
+10156-[2026-04-27 16:45:51,079]: DEBUG -> Soma de Compara��es (Total): 50934195
+10156-[2026-04-27 16:45:51,079]: DEBUG -> M�dia de Compara��es/Rodada: 3918015.00
+10156-[2026-04-27 16:45:51,079]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:51,079]: DEBUG -> === INICIANDO BATERIA: numeros_300k_ordenado.txt ===
+10156-[2026-04-27 16:45:51,143]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:51,201]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:51,258]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:51,320]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:51,388]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:51,452]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:51,506]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:51,569]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:51,626]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:51,693]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:51,757]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:51,833]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:51,894]: DEBUG ->   > [numeros_300k_ordenado.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:51,894]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_300k_ordenado.txt ---
+10156-[2026-04-27 16:45:51,894]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:51,894]: DEBUG -> Tempo Total (Wall Time): 0.815484s
+10156-[2026-04-27 16:45:51,894]: DEBUG -> Tempo M�dio (Wall Time): 0.062730s
+10156-[2026-04-27 16:45:51,894]: DEBUG -> Tempo M�dio (Interno do C): 0.010817s
+10156-[2026-04-27 16:45:51,894]: DEBUG -> Soma de Compara��es (Total): 53722292
+10156-[2026-04-27 16:45:51,894]: DEBUG -> M�dia de Compara��es/Rodada: 4132484.00
+10156-[2026-04-27 16:45:51,894]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:51,894]: DEBUG -> === INICIANDO BATERIA: numeros_300k_reverso.txt ===
+10156-[2026-04-27 16:45:51,960]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:52,032]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:52,102]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:52,276]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:52,367]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:52,435]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:52,498]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:52,561]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:52,615]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:52,670]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:52,725]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:52,779]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:52,841]: DEBUG ->   > [numeros_300k_reverso.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:52,841]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_300k_reverso.txt ---
+10156-[2026-04-27 16:45:52,841]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:52,841]: DEBUG -> Tempo Total (Wall Time): 0.946094s
+10156-[2026-04-27 16:45:52,841]: DEBUG -> Tempo M�dio (Wall Time): 0.072776s
+10156-[2026-04-27 16:45:52,841]: DEBUG -> Tempo M�dio (Interno do C): 0.012019s
+10156-[2026-04-27 16:45:52,841]: DEBUG -> Soma de Compara��es (Total): 53492114
+10156-[2026-04-27 16:45:52,841]: DEBUG -> M�dia de Compara��es/Rodada: 4114778.00
+10156-[2026-04-27 16:45:52,841]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:52,841]: DEBUG -> === INICIANDO BATERIA: numeros_400k_aleatorio.txt ===
+10156-[2026-04-27 16:45:52,941]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:53,031]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:53,134]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:53,232]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:53,329]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:53,437]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:53,537]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:53,647]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:53,751]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:53,841]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:53,939]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:54,040]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:54,142]: DEBUG ->   > [numeros_400k_aleatorio.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:54,143]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_400k_aleatorio.txt ---
+10156-[2026-04-27 16:45:54,143]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:54,143]: DEBUG -> Tempo Total (Wall Time): 1.301482s
+10156-[2026-04-27 16:45:54,143]: DEBUG -> Tempo M�dio (Wall Time): 0.100114s
+10156-[2026-04-27 16:45:54,143]: DEBUG -> Tempo M�dio (Interno do C): 0.034856s
+10156-[2026-04-27 16:45:54,143]: DEBUG -> Soma de Compara��es (Total): 69570917
+10156-[2026-04-27 16:45:54,143]: DEBUG -> M�dia de Compara��es/Rodada: 5351609.00
+10156-[2026-04-27 16:45:54,143]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:54,143]: DEBUG -> === INICIANDO BATERIA: numeros_400k_ordenado.txt ===
+10156-[2026-04-27 16:45:54,238]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:54,309]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:54,377]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:54,440]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:54,509]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:54,571]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:54,643]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:54,705]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:54,778]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:54,844]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:54,926]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:55,010]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:55,094]: DEBUG ->   > [numeros_400k_ordenado.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:55,094]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_400k_ordenado.txt ---
+10156-[2026-04-27 16:45:55,094]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:55,094]: DEBUG -> Tempo Total (Wall Time): 0.950880s
+10156-[2026-04-27 16:45:55,094]: DEBUG -> Tempo M�dio (Wall Time): 0.073145s
+10156-[2026-04-27 16:45:55,094]: DEBUG -> Tempo M�dio (Interno do C): 0.015625s
+10156-[2026-04-27 16:45:55,095]: DEBUG -> Soma de Compara��es (Total): 72322770
+10156-[2026-04-27 16:45:55,095]: DEBUG -> M�dia de Compara��es/Rodada: 5563290.00
+10156-[2026-04-27 16:45:55,095]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:55,095]: DEBUG -> === INICIANDO BATERIA: numeros_400k_reverso.txt ===
+10156-[2026-04-27 16:45:55,181]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:55,251]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:55,312]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:55,385]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:55,447]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:55,531]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:55,618]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:55,698]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:55,762]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:55,839]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:55,904]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:55,970]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:56,033]: DEBUG ->   > [numeros_400k_reverso.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:56,033]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_400k_reverso.txt ---
+10156-[2026-04-27 16:45:56,033]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:56,033]: DEBUG -> Tempo Total (Wall Time): 0.938343s
+10156-[2026-04-27 16:45:56,033]: DEBUG -> Tempo M�dio (Wall Time): 0.072180s
+10156-[2026-04-27 16:45:56,033]: DEBUG -> Tempo M�dio (Interno do C): 0.016827s
+10156-[2026-04-27 16:45:56,033]: DEBUG -> Soma de Compara��es (Total): 72538596
+10156-[2026-04-27 16:45:56,033]: DEBUG -> M�dia de Compara��es/Rodada: 5579892.00
+10156-[2026-04-27 16:45:56,033]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:56,033]: DEBUG -> === INICIANDO BATERIA: numeros_50k_aleatorio.txt ===
+10156-[2026-04-27 16:45:56,057]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:56,074]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:56,095]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:56,114]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:56,131]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:56,150]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:56,167]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:56,187]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:56,207]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:56,231]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:56,253]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:56,274]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:56,295]: DEBUG ->   > [numeros_50k_aleatorio.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:56,295]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_50k_aleatorio.txt ---
+10156-[2026-04-27 16:45:56,295]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:56,295]: DEBUG -> Tempo Total (Wall Time): 0.262133s
+10156-[2026-04-27 16:45:56,295]: DEBUG -> Tempo M�dio (Wall Time): 0.020164s
+10156-[2026-04-27 16:45:56,295]: DEBUG -> Tempo M�dio (Interno do C): 0.003606s
+10156-[2026-04-27 16:45:56,295]: DEBUG -> Soma de Compara��es (Total): 7398183
+10156-[2026-04-27 16:45:56,295]: DEBUG -> M�dia de Compara��es/Rodada: 569091.00
+10156-[2026-04-27 16:45:56,295]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:56,295]: DEBUG -> === INICIANDO BATERIA: numeros_50k_ordenado.txt ===
+10156-[2026-04-27 16:45:56,328]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:56,349]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:56,368]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:56,385]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:56,403]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:56,420]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:56,438]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:56,456]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:56,474]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:56,491]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:56,508]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:56,533]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:56,551]: DEBUG ->   > [numeros_50k_ordenado.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:56,551]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_50k_ordenado.txt ---
+10156-[2026-04-27 16:45:56,551]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:56,551]: DEBUG -> Tempo Total (Wall Time): 0.255006s
+10156-[2026-04-27 16:45:56,551]: DEBUG -> Tempo M�dio (Wall Time): 0.019616s
+10156-[2026-04-27 16:45:56,551]: DEBUG -> Tempo M�dio (Interno do C): 0.000000s
+10156-[2026-04-27 16:45:56,551]: DEBUG -> Soma de Compara��es (Total): 7231315
+10156-[2026-04-27 16:45:56,551]: DEBUG -> M�dia de Compara��es/Rodada: 556255.00
+10156-[2026-04-27 16:45:56,551]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:56,551]: DEBUG -> === INICIANDO BATERIA: numeros_50k_reverso.txt ===
+10156-[2026-04-27 16:45:56,586]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 1/13 finalizada.
+10156-[2026-04-27 16:45:56,607]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 2/13 finalizada.
+10156-[2026-04-27 16:45:56,627]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 3/13 finalizada.
+10156-[2026-04-27 16:45:56,647]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 4/13 finalizada.
+10156-[2026-04-27 16:45:56,671]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 5/13 finalizada.
+10156-[2026-04-27 16:45:56,691]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 6/13 finalizada.
+10156-[2026-04-27 16:45:56,712]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 7/13 finalizada.
+10156-[2026-04-27 16:45:56,733]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 8/13 finalizada.
+10156-[2026-04-27 16:45:56,759]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 9/13 finalizada.
+10156-[2026-04-27 16:45:56,780]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 10/13 finalizada.
+10156-[2026-04-27 16:45:56,800]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 11/13 finalizada.
+10156-[2026-04-27 16:45:56,822]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 12/13 finalizada.
+10156-[2026-04-27 16:45:56,841]: DEBUG ->   > [numeros_50k_reverso.txt] Execu��o 13/13 finalizada.
+10156-[2026-04-27 16:45:56,841]: DEBUG -> --- RELAT�RIO DA BATERIA: numeros_50k_reverso.txt ---
+10156-[2026-04-27 16:45:56,841]: DEBUG -> N� de Execu��es: 13
+10156-[2026-04-27 16:45:56,841]: DEBUG -> Tempo Total (Wall Time): 0.290934s
+10156-[2026-04-27 16:45:56,841]: DEBUG -> Tempo M�dio (Wall Time): 0.022380s
+10156-[2026-04-27 16:45:56,842]: DEBUG -> Tempo M�dio (Interno do C): 0.001202s
+10156-[2026-04-27 16:45:56,842]: DEBUG -> Soma de Compara��es (Total): 7292662
+10156-[2026-04-27 16:45:56,842]: DEBUG -> M�dia de Compara��es/Rodada: 560974.00
+10156-[2026-04-27 16:45:56,842]: DEBUG -> ============================================================
+10156-[2026-04-27 16:45:56,842]: DEBUG -> SISTEMA FINALIZADO - Todos os testes foram conclu�dos.
